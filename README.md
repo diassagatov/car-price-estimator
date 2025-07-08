@@ -48,5 +48,5 @@ This project is a machine learning pipeline that predicts used car prices based 
 ```bash
 pip install -r requirements.txt
 python src/ui.py
-
+```
 ![image](https://github.com/user-attachments/assets/ae386d66-5c3f-4e54-afbb-ef0aa4b33153)
