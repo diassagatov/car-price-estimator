@@ -15,21 +15,6 @@ This project is a machine learning pipeline that predicts used car prices based 
 
 ---
 
-## 🗂️ Project Structure
-
-car-price-predictor/
-├── data/                  # Raw and cleaned data (e.g., cardekho.csv)
-├── notebooks/             # Jupyter notebooks for training, EDA, experimentation
-├── src/                   # Source code modules
-│   ├── model_utils.py     # Model training, evaluation, feature engineering
-│   ├── predictor.py       # Module to load model & predict prices from input
-│   └── ui.py              # (Optional) Streamlit app or CLI interface
-├── requirements.txt       # Python dependencies
-├── .gitignore             # Git ignore list
-└── README.md              # Project documentation
-
----
-
 ## 🧠 How It Works
 
 ### 🔍 Model Selection Pipeline
@@ -64,3 +49,4 @@ car-price-predictor/
 pip install -r requirements.txt
 python src/ui.py
 
+![image](https://github.com/user-attachments/assets/ae386d66-5c3f-4e54-afbb-ef0aa4b33153)
