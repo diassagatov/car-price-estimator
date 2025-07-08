@@ -6,7 +6,7 @@ This project is a machine learning pipeline that predicts used car prices based 
 
 ## 📌 Features
 
-- 💡 Predict car prices based on real-world data
+- 💡 Predict car prices based on data from [dataset from kaggle](https://www.kaggle.com/datasets/sukhmandeepsinghbrar/car-price-prediction-dataset)
 - 🧼 Preprocessing: outlier filtering, one-hot encoding, feature extraction
 - 🔍 Model comparison and automatic best model selection
 - 📦 Model export with `joblib` for future predictions
